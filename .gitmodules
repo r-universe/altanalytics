@@ -11,3 +11,6 @@
 [submodule "rameritrade"]
 	path = rameritrade
 	url = https://github.com/altanalytics/rameritrade
+[submodule "schwabr"]
+	path = schwabr
+	url = https://github.com/altanalytics/schwabr
